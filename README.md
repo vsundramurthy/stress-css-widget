@@ -1,7 +1,7 @@
 stress-css-widget
 =================
 
-A cross browser CSS performance testing Widget.
+A cross browser CSS Stress Testing and Performance Profiling Widget.
 
 
 _______
