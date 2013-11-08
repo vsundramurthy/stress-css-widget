@@ -7,7 +7,7 @@ A cross browser CSS Stress Testing and Performance Profiling Widget.
 _______
 Installation
 ----------
-This widget has JQuery dependency. Simply copy the below script tag and put it anywhere on you page, 
+This widget has JQuery dependency. Simply copy the below script tag and put it anywhere on the page, 
 The Stress CSS Widget will appear on the right side of your page. This widget also comes with options to customize 
 widget look & feel and positions.
 
