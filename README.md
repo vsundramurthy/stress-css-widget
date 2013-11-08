@@ -18,7 +18,7 @@ widget look & feel and positions.
 _______
 Demo
 ----------
-Widget on [JSfiddle](http://jsfiddle.net/L2uD2/18/)
+Widget on [JSfiddle](http://jsfiddle.net/L2uD2/21/)
 
 _______
 
