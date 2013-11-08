@@ -12,7 +12,7 @@ The Stress CSS Widget will appear on the right side of your page. This widget al
 widget look & feel and positions.
 
 ```javascript
-<script src="http://f.cl.ly/items/3r08291Z1H0l1i1w1C2f/cstw.min.js"></script>
+  <script src="https://www.dropbox.com/s/r9kmap0a2mgzth7/cstw.min.js?dl=1"></script>
 ```
 
 _______
