@@ -1,3 +1,9 @@
+//
+// This is stress CSS widget, a tool that helps to detect css perfromance issuess.
+//
+// This widget is based on the Stress CSS tool authored by Andy Edinborough.
+//
+
 (function(d, $, op) {
     var op = $.extend({text: 'STRESS CSS',
                        stress_script: 'http://andy.edinborough.org/demos/css-stress/stressTest.js',
