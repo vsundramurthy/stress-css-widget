@@ -19,5 +19,10 @@ Author
 [(@vsundramurthy)](http://twitter.com/vsundramurthy) 
 
 
+Shout out
+----------
+- Thanks to [Andy Edinborough](http://andy.edinborough.org/) on his work at Stress CSS scrip which was the inspiration for this Widget.
+
+
 
 
