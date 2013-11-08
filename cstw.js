@@ -4,7 +4,8 @@
                       }, op)
       , wid_cnt = $('<div id="wid_cnt" />')
             .css(op.cnt_style || {'cursor': 'pointer',
-                                  'position': 'absolute',    
+                                  'z-index': '16776274',
+                                  'position': 'fixed',    
                                   'white-space': 'nowrap',
                                   'top': '50%',
                                   'right': '0',
