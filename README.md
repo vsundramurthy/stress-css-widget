@@ -9,7 +9,7 @@ Installation
 ----------
 This widget has JQuery dependency. Simply copy the minified JS and put it on you webpage, 
 the ‘Stress CSS Widget’ will appear on the right side of your page. Widget also comes with options to customize 
-the widget look & feel and positions.
+widget look & feel and positions.
 
 _______
 
