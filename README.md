@@ -25,7 +25,8 @@ Author
 
 Shout out
 ----------
-- Thanks to [Andy Edinborough](http://andy.edinborough.org/) on his work at Stress CSS scrip which was the inspiration for this Widget.
+- Thanks to [Andy Edinborough](http://andy.edinborough.org/) on his work at Stress CSS script, which was the 
+inspiration for making this Widget.
 
 
 
